@@ -21,17 +21,17 @@ Avengers Team sebagai tim data scientist pada final project kali ini berperan da
 
 Berdasarkan kinerja model, akan dipilih model yang akan melampirkan probabilitas ke churn atau tidaknya, untuk memudahkan layanan pelanggan dalam upaya mereka mencegah churn. Pengetahuan ini akan membantu perusahaan dalam mengambil tindakan yang tepat untuk memenangkan customer yang masih loyal. Peran selanjutnya adalah melatih, menyempurnakan, dan menguji banyak model hingga kita menemukan model yang akan membuat prediksi paling akurat. 
 
-### Goal<br>
+### 3. Goal<br>
 
 Prediksi customer churn berdasarkan pola perilaku customer, seperti complain dan tingkat kepuasan customer. Sehingga kita dapat menurunkan angka churn dan fokus meningkatkan retensi pelanggan (misalnya dengan memberikan program loyalitas pelanggan) sehingga cost operation dapat diminimalisir. Karena cost yang dikeluarkan untuk mendapatkan customer baru akan lebih tinggi dibandingkan mempertahankan pelanggan yang sudah ada. <br>
 - Tingkat Churn customer berkurang, targetnya <10% <br>
 - Tingkat kepuasan customer naik >3 <br>
 
-### Objective<br>
+### 4. Objective<br>
 
 Membuat model machine learning untuk memprediksi customer yang akan churn.<br>
 
-### Business Metrics<br>
+### 5. Business Metrics<br>
 1. Churn Rate - (Main)<br>
 2. Satisfaction Score (Customer Satisfaction) - (Secondary)<br>
 
