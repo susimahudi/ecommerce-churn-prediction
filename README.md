@@ -2,6 +2,10 @@
 Final Project-Rakamin Academy 
 Kelempok 2: Avengers Team
 
+The goal of this project is to analyze churn customer behavior and minimize the customer churn rate. The
+results show that tenure has the biggest impact on customer churn. Using F1-Score as performance
+metrics, the model can predict churn customer rate reduced, target <10%. 
+
 ### 1. Problem Statement <br>
 
 Avengers Team Menggunakan dataset Churn Prediction yang merupakan data yang dimiliki oleh perusahaan yang bergerak di bidang E-commerce. Data mencakup angka customer yang berhenti berlangganan (customer churn), lama berlangganan, kegiatan order, penggunaan coupon dan cashback, complain, dan lain-lain.<br>
